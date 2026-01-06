@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+/*----Map----*/
+#background-view .section-svg[data-status="saved"]{ cursor: pointer; position: absolute; }
+#background-view .space-svg[data-status="saved"]{ cursor: pointer; position: absolute; }
+#background-view .space-svg[data-status="locked"]{ position: absolute; }
+#background-view .icon-svg[data-status="saved"]{ position: absolute; }
+#background-view .icon-svg[data-status="locked"]{ position: absolute; }
+#background-view .picture-svg[data-status="saved"]{ position: absolute; }
+#background-view .picture-svg[data-status="locked"]{ position: absolute; }
+#background-view .text-svg[data-status="saved"]{ position: absolute; }
+#background-view .text-svg[data-status="locked"]{ position: absolute; }
+
+@media (min-width: 1128px){
+	/*----Map----*/
+	#page-contents{ padding-left: 300px; }
+}
