@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <pagescount>
-	<html_total>1291</html_total>
-	<html_done>743</html_done>
-	<images>7785</images>
-	<script>7</script>
+	<html_total>1348</html_total>
+	<html_done>1325</html_done>
+	<images>13779</images>
+	<script>9</script>
 	<css>7</css>
 	<pdf>1</pdf>
 	<documents/>
@@ -18,7 +18,7 @@
 	<autocad/>
 	<model_3d/>
 	<fonts>71</fonts>
-	<scraping_reload>11</scraping_reload>
+	<scraping_reload>17</scraping_reload>
 	<is_pretty_url>false</is_pretty_url>
 	<has_trailing_slash>false</has_trailing_slash>
 	<is_ebn>false</is_ebn>
@@ -36,5 +36,5 @@
 	<scrape_other_captures>false</scrape_other_captures>
 	<action/>
 	<current_scraping_url/>
-	<total_size>184924</total_size>
+	<total_size>213884</total_size>
 <json_from_script>2</json_from_script></pagescount>
